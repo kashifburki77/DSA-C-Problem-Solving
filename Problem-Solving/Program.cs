@@ -28,7 +28,6 @@ namespace Problem_Solving
            
             stack.Pop();
             stack.Pop();
-            stack.Pop();
           
             foreach(string name in stack)
             {
