@@ -23,21 +23,27 @@ namespace Problem_Solving
             stack.Push("Fida");
             stack.Push("NaqibUllah");
             stack.Push("Hizbullah");
-            stack.Push("Atiq");
+            stack.Push("Atiq"); 
             stack.Push("Amjad");
+            stack.Push("Ayub khan");
+            stack.Push("Naseer Khan");
+
            
             stack.Pop();
             stack.Pop();
-          
-            foreach(string name in stack)
+
+
+            //Console.WriteLine(stack.Peek());
+
+
+            //string topobject = stack.Pop();
+            //Console.WriteLine(topobject);
+
+
+            foreach (string name in stack)
             {
                 Console.WriteLine(name);
             }
-
-          
-
-             
-
         }
     }
 }
