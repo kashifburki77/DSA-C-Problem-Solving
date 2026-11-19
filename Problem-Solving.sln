@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.37216.2 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.12.12405.243
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-Solving", "Problem-Solving\Problem-Solving.csproj", "{0B3A2CE7-4E9F-4FDA-A672-702F71150ED5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue-FIFO", "Queue-FIFO", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue-FIFO", "Queue-FIFO\Queue-FIFO.csproj", "{98733546-45EA-4602-906E-E768ECB58CE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PriorityQueue", "PriorityQueue", "{3E41C570-AE98-4B1F-B31D-163A99E56524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalPatientPriority", "HospitalPatientPriority\HospitalPatientPriority.csproj", "{E5563FB2-AB02-49DE-BD8D-48C7818498C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT Support Ticket System", "IT Support Ticket System\IT Support Ticket System.csproj", "{CD825532-6F7D-414A-9F70-F80E2D77DB0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +29,22 @@ Global
 		{98733546-45EA-4602-906E-E768ECB58CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98733546-45EA-4602-906E-E768ECB58CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98733546-45EA-4602-906E-E768ECB58CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5563FB2-AB02-49DE-BD8D-48C7818498C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5563FB2-AB02-49DE-BD8D-48C7818498C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5563FB2-AB02-49DE-BD8D-48C7818498C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5563FB2-AB02-49DE-BD8D-48C7818498C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD825532-6F7D-414A-9F70-F80E2D77DB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD825532-6F7D-414A-9F70-F80E2D77DB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD825532-6F7D-414A-9F70-F80E2D77DB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD825532-6F7D-414A-9F70-F80E2D77DB0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{98733546-45EA-4602-906E-E768ECB58CE5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E5563FB2-AB02-49DE-BD8D-48C7818498C7} = {3E41C570-AE98-4B1F-B31D-163A99E56524}
+		{CD825532-6F7D-414A-9F70-F80E2D77DB0A} = {3E41C570-AE98-4B1F-B31D-163A99E56524}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0941EBAD-2919-4378-923E-D19C75A40CE2}
