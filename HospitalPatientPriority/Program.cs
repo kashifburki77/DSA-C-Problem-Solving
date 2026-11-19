@@ -19,7 +19,7 @@ public class Program
         patientprority.Enqueue("Rahim", 10);
         patientprority.Enqueue("Rashid", 9);
         patientprority.Enqueue("Raza", 12);
-        patientprority.Enqueue("Fatma", 11);
+        patientprority.Enqueue("Fatima", 11);
         patientprority.Enqueue("Hina", 13);
         patientprority.Enqueue("Haris", 14);
         patientprority.Enqueue("Hassan", 15);
