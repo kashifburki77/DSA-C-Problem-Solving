@@ -28,31 +28,37 @@ public class program
             Console.WriteLine("The Ticket With the Highest Priority is " + Ticketpriority.Peek());
             Console.WriteLine("The Ticket Problem is Processing and Our Team is Start Working on it " + Ticketpriority.Dequeue());
             Console.WriteLine(result1);
+            Console.WriteLine("");
 
             string result2 = Ticketpriority.Peek();
             Console.WriteLine("The Ticket With the Highest Priority is " + Ticketpriority.Peek());
             Console.WriteLine("The Ticket Problem is Processing and Our Team is Start Working on it " + Ticketpriority.Dequeue());
             Console.WriteLine(result2);
+            Console.WriteLine("");
 
             string result3 = Ticketpriority.Peek();
             Console.WriteLine("The Ticket With the Highest Priority is " + Ticketpriority.Peek());
             Console.WriteLine("The Ticket Problem is Processing and Our Team is Start Working on it " + Ticketpriority.Dequeue());
             Console.WriteLine(result3);
+            Console.WriteLine("");
 
             string result4 = Ticketpriority.Peek();
             Console.WriteLine("The Ticket With the Highest Priority is " + Ticketpriority.Peek());
             Console.WriteLine("The Ticket Problem is Processing and Our Team is Start Working on it " + Ticketpriority.Dequeue());
             Console.WriteLine(result4);
+            Console.WriteLine("");
 
             string result5 = Ticketpriority.Peek();
             Console.WriteLine("The Ticket With the Highest Priority is " + Ticketpriority.Peek());
             Console.WriteLine("The Ticket Problem is Processing and Our Team is Start Working on it " + Ticketpriority.Dequeue());
             Console.WriteLine(result5);
+            Console.WriteLine("");
 
             string result6 = Ticketpriority.Peek();
             Console.WriteLine("The Ticket With the Highest Priority is " + Ticketpriority.Peek());
             Console.WriteLine("The Ticket Problem is Processing and Our Team is Start Working on it " + Ticketpriority.Dequeue());
             Console.WriteLine(result6);
+            Console.WriteLine("");
 
         }
 
